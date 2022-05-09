@@ -1,0 +1,41 @@
+.group-49 {
+  display: flex;
+  height: 24px;
+  justify-content: space-between;
+  margin-top: 3px;
+  width: 557px;
+}
+
+.main-2345-34 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -5px;
+  margin-top: 3px;
+  white-space: nowrap;
+  width: 127px;
+}
+
+.price-6 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -5px;
+  margin-right: -2.0px;
+  margin-top: 3px;
+  text-align: right;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.group-49.group,
+.group-49.group-1 {
+  margin-top: 14px;
+}
+
+.group-49.group-1 .main-2345-34 {
+  width: 151px;
+}
+
+.group-49.group .main-2345-34 {
+  width: 125px;
+}
+

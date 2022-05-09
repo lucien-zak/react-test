@@ -1,0 +1,140 @@
+.component-208-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 21px;
+  box-shadow: 0px 3px 6px #dad8dd;
+  display: flex;
+  flex-direction: column;
+  left: 15px;
+  min-height: 955px;
+  position: fixed;
+  top: 105px;
+  width: 260px;
+  z-index: 3;
+}
+
+.overlap-group7 {
+  height: 57px;
+  position: relative;
+  width: 260px;
+}
+
+.mask-group-2 {
+  display: flex;
+  height: 1px;
+  left: 46px;
+  overflow: hidden;
+  position: absolute;
+  top: 10px;
+  width: 181px;
+}
+
+.group-3812 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  margin-left: 3.31%;
+  margin-right: 7.18%;
+  min-height: 10200%;
+  position: relative;
+  width: 162px;
+}
+
+.mask-group-3 {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  height: 1px;
+  margin-left: 20.0px;
+  margin-top: 5px;
+  overflow: hidden;
+  padding: 0 4px;
+  width: 184px;
+}
+
+.group-3813 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -67px;
+  min-height: 63px;
+  position: relative;
+  width: 173px;
+}
+
+.group-3815 {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  margin-left: 25px;
+  margin-top: 156px;
+  min-width: 84px;
+}
+
+.path-1370-1 {
+  height: 16px;
+  margin-top: 0;
+  object-fit: cover;
+  width: 16px;
+}
+
+.logout-1 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -5px;
+  margin-left: 10px;
+  min-height: 26px;
+  min-width: 58px;
+  white-space: nowrap;
+}
+
+.group-3816 {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  margin-left: 25px;
+  margin-top: 15px;
+  min-width: 94px;
+}
+
+.group-3817 {
+  align-items: flex-start;
+  display: flex;
+  height: 17px;
+  margin-bottom: 0.71px;
+  min-width: 16px;
+}
+
+.overlap-group-4 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 19px;
+  justify-content: flex-end;
+  margin-left: -1px;
+  margin-top: -0.75px;
+  min-width: 18px;
+  padding: 6.0px 5.5px;
+}
+
+.ellipse-2 {
+  border: 1.5px solid var(--purple-mountains-majesty);
+  border-radius: 2.64px;
+  height: 7px;
+  width: 7px;
+}
+
+.settings-1 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -5px;
+  margin-left: 10px;
+  min-height: 26px;
+  min-width: 68px;
+  white-space: nowrap;
+}
+

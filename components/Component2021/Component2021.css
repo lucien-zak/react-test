@@ -1,0 +1,131 @@
+.component-202-1 {
+  align-items: flex-end;
+  align-self: center;
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 6px #00000015;
+  display: flex;
+  flex-direction: column;
+  margin-top: 34px;
+  min-height: 215px;
+  padding: 19.5px 8px;
+  width: 212px;
+}
+
+.overlap-group-container {
+  align-self: center;
+  height: 104px;
+  margin-left: 4.58px;
+  margin-top: 3px;
+  position: relative;
+  width: 131px;
+}
+
+.overlap-group-5 {
+  height: 64px;
+  left: 77px;
+  position: absolute;
+  top: 0;
+  width: 54px;
+}
+
+.path-1360 {
+  height: 30px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 29px;
+}
+
+.group-3780 {
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 55px;
+  justify-content: flex-end;
+  left: 9px;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.path-1362 {
+  height: 10.52px;
+  margin-right: 0;
+  margin-top: 0;
+  object-fit: cover;
+  width: 10.52px;
+}
+
+.group-3781 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 9px;
+  width: 45px;
+}
+
+.overlap-group1-1 {
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 40px;
+  width: 54px;
+}
+
+.overlap-group2 {
+  border-radius: 24px;
+  height: 86px;
+  left: 20px;
+  position: absolute;
+  top: 10px;
+  width: 86px;
+}
+
+.rectangle-3653 {
+  background-color: #7c6d9e;
+  border-radius: 24px;
+  filter: blur(5.04px);;
+  height: 80px;
+  left: 6px;
+  opacity: 0.75;
+  position: absolute;
+  top: 6px;
+  width: 80px;
+}
+
+.rectangle-3654 {
+  background-color: var(--white);
+  border-radius: 24px;
+  height: 86px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 86px;
+}
+
+.path-1359 {
+  height: 31px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 41px;
+}
+
+.submit-a-new-document-here {
+  color: var(--dolphin);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-xxl);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 16px;
+  min-height: 54px;
+  text-align: center;
+  width: 193px;
+}
+

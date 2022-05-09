@@ -1,0 +1,44 @@
+.component-200-1 {
+  align-items: center;
+  display: flex;
+  height: 57px;
+  min-width: 260px;
+  padding: 10px 32.5px;
+}
+
+.page-1 {
+  display: flex;
+  height: 19px;
+  margin-top: 1.0px;
+  transform: rotate(90deg);
+  width: 18px;
+}
+
+.dribbble-light-preview,
+.icons {
+  display: flex;
+  flex: 1;
+  width: 18px;
+}
+
+.arrow_up-341 {
+  flex: 1;
+  margin-bottom: 0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: 0.5px;
+  object-fit: cover;
+  transform: rotate(-90deg);
+  width: 19px;
+}
+
+.place-2 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 13px;
+  min-height: 26px;
+  min-width: 43px;
+  white-space: nowrap;
+}
+

@@ -1,0 +1,47 @@
+.group-558-2 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 5.0px;
+  min-width: 9px;
+  padding: 0 0.0px;
+}
+
+.path-container-2 {
+  height: 13px;
+  position: relative;
+  width: 9px;
+}
+
+.path-319 {
+  height: 5px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 5px;
+}
+
+.path-320 {
+  height: 5px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 5px;
+}
+
+.path-321 {
+  height: 13px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.group-558-2.group-558-1 {
+  margin-bottom: unset;
+  margin-top: -5.9px;
+}
+

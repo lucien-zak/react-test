@@ -1,0 +1,122 @@
+.component-260-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 3.0px;
+  margin-left: 76px;
+  min-height: 47px;
+  width: 43px;
+}
+
+.group-8376 {
+  align-items: flex-end;
+  background-color: var(--true-v);
+  border-radius: 12px;
+  display: flex;
+  height: 43px;
+  width: 43px;
+}
+
+.path-5836 {
+  flex: 1;
+  height: 31px;
+  margin-bottom: 6.0px;
+  margin-left: 6.0px;
+  margin-right: 6.0px;
+  object-fit: cover;
+}
+
+.mask-group-33 {
+  align-items: flex-end;
+  display: flex;
+  height: 4px;
+  overflow: hidden;
+  width: 1px;
+}
+
+.group-8372 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 16px;
+  box-shadow: 0px 3px 6px #00000029;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -133px;
+  min-height: 126px;
+  padding: 19px 20px;
+  width: 276px;
+}
+
+.group-8368 {
+  align-items: flex-start;
+  display: flex;
+  height: 29px;
+  margin-top: 1px;
+  min-width: 185px;
+}
+
+.group-8367 {
+  background-color: var(--true-v);
+  border-radius: 6px;
+  display: flex;
+  height: 28px;
+  justify-content: flex-end;
+  width: 28px;
+}
+
+.group-8373 {
+  background-position: 50% 50%;
+  background-size: cover;
+  margin-bottom: 6px;
+  margin-right: 7px;
+  margin-top: 6px;
+  width: 14px;
+}
+
+.switch-banking {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -5.5px;
+  margin-left: 15px;
+  min-height: 29px;
+  min-width: 142px;
+  white-space: nowrap;
+}
+
+.group-8370 {
+  align-items: flex-start;
+  display: flex;
+  height: 29px;
+  margin-top: 29px;
+  min-width: 207px;
+}
+
+.group-8369 {
+  align-items: flex-start;
+  background-color: var(--true-v);
+  border-radius: 6px;
+  display: flex;
+  height: 28px;
+  min-width: 28px;
+  padding: 7.0px 5px;
+}
+
+.layer1 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 14px;
+  width: 18px;
+}
+
+.switch-hr-payroll {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -5.5px;
+  margin-left: 15px;
+  min-height: 29px;
+  min-width: 164px;
+  white-space: nowrap;
+}
+

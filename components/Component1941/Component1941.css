@@ -1,0 +1,50 @@
+.component-194-1 {
+  display: flex;
+  height: 57px;
+  width: 260px;
+}
+
+.mask-group-4 {
+  display: flex;
+  flex: 1;
+  width: 260px;
+}
+
+.group-3814 {
+  align-items: center;
+  background-color: var(--white-lilac);
+  display: flex;
+  flex: 1;
+  min-width: 260px;
+  padding: 10px;
+}
+
+.rectangle-3 {
+  background-color: var(--true-v);
+  height: 7px;
+  margin-top: 4.0px;
+  width: 7px;
+}
+
+.path-4 {
+  height: 22px;
+  margin-left: 14px;
+  margin-top: 3.88px;
+  object-fit: cover;
+  width: 20px;
+}
+
+.place-1 {
+  align-self: flex-end;
+  color: var(--true-v);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 9px;
+  min-height: 26px;
+  min-width: 50px;
+  white-space: nowrap;
+}
+

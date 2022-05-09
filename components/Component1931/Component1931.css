@@ -1,0 +1,68 @@
+.component-193-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 80px;
+  justify-content: center;
+  left: 0;
+  min-width: 1920px;
+  position: fixed;
+  top: 0;
+  z-index: 4;
+}
+
+.overlap-group8 {
+  align-items: center;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 98px;
+  justify-content: flex-end;
+  margin-top: -6px;
+  min-width: 1938px;
+  padding: 18.5px 34px;
+  position: relative;
+}
+
+.logo {
+  align-self: flex-end;
+  color: var(--true-v);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-xxxl);
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: 38px;
+  min-height: 53px;
+  min-width: 93px;
+  white-space: nowrap;
+}
+
+.group-3794 {
+  background-color: var(--white-lilac);
+  border-radius: 10px;
+  display: flex;
+  height: 44px;
+  margin-bottom: 6.0px;
+  margin-left: 31px;
+  width: 463px;
+}
+
+.path-1371 {
+  margin-left: 20px;
+  object-fit: cover;
+}
+
+.search {
+  align-self: flex-end;
+  color: var(--blue-haze);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -7.2px;
+  margin-left: 20px;
+  white-space: nowrap;
+  width: 57px;
+}
+

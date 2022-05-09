@@ -1,0 +1,25 @@
+.component-74-1 {
+  align-items: flex-end;
+  background-color: var(--true-v);
+  border-radius: 26px;
+  display: flex;
+  height: 51px;
+  justify-content: flex-end;
+  margin-left: 29px;
+  margin-top: 16px;
+  min-width: 185px;
+  padding: 6.5px 40px;
+}
+
+.all-invoices {
+  color: var(--white);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 29px;
+  min-width: 103px;
+  white-space: nowrap;
+}
+

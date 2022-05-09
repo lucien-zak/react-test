@@ -1,0 +1,61 @@
+.component-199-1 {
+  align-items: center;
+  display: flex;
+  height: 57px;
+  left: 0;
+  min-width: 260px;
+  padding: 10px 32px;
+  position: absolute;
+  top: 0;
+}
+
+.group-3557 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 1.0px;
+  min-width: 16px;
+}
+
+.path-container-1 {
+  height: 24px;
+  position: relative;
+  width: 16px;
+}
+
+.path-1270 {
+  height: 4px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 12px;
+}
+
+.path-1271 {
+  height: 24px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.path-1272 {
+  height: 12px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 12px;
+}
+
+.quotes {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 13px;
+  min-height: 26px;
+  min-width: 60px;
+  white-space: nowrap;
+}
+

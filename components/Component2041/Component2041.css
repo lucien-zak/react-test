@@ -1,0 +1,19 @@
+.component-204-1 {
+  display: flex;
+  height: 24px;
+  margin-top: 15px;
+  width: 164px;
+}
+
+.vehicle-expenses {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -5px;
+  margin-left: 23px;
+  margin-right: -2px;
+  margin-top: 3px;
+  white-space: nowrap;
+  width: 141px;
+}
+

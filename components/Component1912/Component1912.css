@@ -1,0 +1,18 @@
+.component-191-2 {
+  align-items: flex-end;
+  background-color: var(--white-lilac);
+  border-radius: 8px;
+  display: flex;
+  height: 44px;
+  min-width: 186px;
+  padding: 6px 29px;
+}
+
+.export-my-data {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 26px;
+  min-width: 128px;
+  white-space: nowrap;
+}
+
